@@ -6,6 +6,11 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=pixmin94&style=flat-square&color=blue" alt=""/></p>
   <p>Hi there 👋</p>
+<!--  <p>
+  I'm Corina, a fullstack developer based in Oakland, California.<br>
+  🔭 I’m currently working on an e-commerce site project.<br>
+  🌱 I’m currently learning NodeJS.<br>
+  </p> --!>
 </div>
 
 ---
@@ -24,6 +29,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
+
+---
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pixmin94&layout=compact)](https://github.com/pixmin94/github-readme-stats)
 
 <!--
 **pixmin94/pixmin94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
