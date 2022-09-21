@@ -6,6 +6,7 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=pixmin94&style=flat-square&color=blue" alt=""/></p>
   <p>Hi there 👋</p>
+  🔭 I’m currently working on <a href="https://pixmin94.github.io/shopping-cart/">this project</a>.<br>
 <!--  <p>
   I'm Corina, a fullstack developer based in Oakland, California.<br>
   🔭 I’m currently working on an e-commerce site project.<br>
