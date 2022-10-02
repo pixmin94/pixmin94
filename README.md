@@ -10,7 +10,7 @@
   Currently taking theodinproject to dive deep into fundamentals.<br>
   Some of my favourite takeaways:<br>
   - Unravelling the mystery of 'this' : <a href="https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/">here</a><br>
-  - How JS event loop REALLY works: <a href="https://www.youtube.com/watch?v=8aGhZQkoFbQ">here</a><br>
+  - Funny and very disgestable explanation on JS event loop: <a href="https://www.youtube.com/watch?v=8aGhZQkoFbQ">here</a><br>
   <br><br>
   🔭 I’m currently working on <a href="peaceful-harbor-94528.herokuapp.com">this project</a>.<br>
 <!--  <p>
