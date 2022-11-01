@@ -11,18 +11,9 @@
   I enjoy hiking, baking and coding!<br>
   <br>
   
-<!--   Currently taking theodinproject to dive deep into fundamentals.<br>
-  Some of my favourite takeaways:<br>
-  - Unravelling the mystery of 'this' : <a href="https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/">here</a><br>
-  - Funny and very disgestable explanation on JS event loop: <a href="https://www.youtube.com/watch?v=8aGhZQkoFbQ">here</a><br>
-  <br><br> -->
   🔭 I’m currently working on <a href="https://pixmin94.github.io/login-message-board/">this project</a>.<br><br>
   📫 How to reach me **pixmin@outlook.com**
-<!--  <p>
-  I'm Corina, a fullstack developer based in Oakland, California.<br>
-  🔭 I’m currently working on an e-commerce site project.<br>
-  🌱 I’m currently learning NodeJS.<br>
-  </p> --!>
+
 </div>
 
 ---
