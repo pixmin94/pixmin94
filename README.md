@@ -7,8 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=pixmin94&style=flat-square&color=blue" alt=""/></p>
   <p>Hi there 👋</p>
   I'm a fullstack engineer currently focused in the JavaScript MERN stack.<br> 
-  I grew up in Singapore and currently residing in Oakland, California.<br>
-  I enjoy hiking, baking and coding!<br>
   <br>
   
   🔭 I’m currently working on <a href="https://pixmin94.github.io/login-message-board/">this project</a>.<br><br>
