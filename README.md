@@ -9,7 +9,6 @@
   I'm a fullstack engineer currently focused in the JavaScript MERN stack.<br> 
   <br>
   
-  🔭 I’m currently working on <a href="https://pixmin94.github.io/login-message-board/">this project</a>.<br><br>
   📫 How to reach me **pixmin@outlook.com**
 
 </div>
@@ -36,6 +35,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pixmin94&layout=compact)](https://github.com/pixmin94/github-readme-stats)
 
 <!--
+  🔭 I’m currently working on <a href="https://pixmin94.github.io/login-message-board/">this project</a>.<br><br>
+  
 **pixmin94/pixmin94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif
 Here are some ideas to get you started:
